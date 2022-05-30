@@ -43,5 +43,5 @@ Table relations
 4. Configure Apache Tomcat for your IDE
 5. Clone this project
 6. Create a database by using the SQL queries from the `init_db.sql` file
-7. Change `username`, `password` and `URL` values in the `/util/ConnectionUtil.java`
+7. Change `USERNAME`, `PASSWORD` and `URL` values in the `/util/ConnectionUtil.java`
 8. Launch application and start using it at `http://localhost:%your_port%`
